@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Fone sem fio",
+      "price": 35.9
+    },
+    {
+      "id": 3,
+      "name": "Tênis",
+      "price": "48.95"
+    },
+    {
+      "id": "4",
+      "name": "Notebook Ibyte i5",
+      "price": "3000.60"
+    }
+  ]
+}
